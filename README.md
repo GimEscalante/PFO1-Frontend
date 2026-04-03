@@ -5,7 +5,7 @@
  
 ---
  
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
  
 ```
 mi-portafolio/
@@ -17,7 +17,7 @@ mi-portafolio/
 ```
 
  
-### 📂 Estructura del Proyecto
+### Estructura del Proyecto
  
 - [x] Archivo `index.html` ubicado en la raíz.
 - [x] Carpeta `css` que contenga el archivo `styles.css`.
@@ -26,7 +26,7 @@ mi-portafolio/
  
 ---
  
-### 🚀 Repositorio y Publicación
+### Repositorio y Publicación
  
 - [x] Repositorio en GitHub creado.
 - [x] Proyecto subido al repositorio.
@@ -35,7 +35,7 @@ mi-portafolio/
  
 ---
  
-### 🔤 Uso de Google Fonts
+### Uso de Google Fonts
  
 - [x] Enlace a Google Fonts incluido en la sección `<head>` del HTML.
 - [x] La tipografía importada se aplica en el sitio.
@@ -46,7 +46,7 @@ mi-portafolio/
  
 ---
  
-### 🧱 HTML
+### HTML
  
 - [x] El documento inicia con la declaración `DOCTYPE` y usa el atributo `lang="es"`.
 - [x] Se han incluido las metaetiquetas obligatorias: `charset` y `viewport`.
@@ -60,7 +60,7 @@ mi-portafolio/
  
 ---
  
-### 🎨 CSS
+### CSS
  
 - [x] Existe el archivo `styles.css` con estilos personalizados.
 - [x] Se utilizan selectores basados en clases e identificadores.
